@@ -42,7 +42,7 @@ The following figure shows examples of generated images using each of the diffic
 
 <img src="https://github.com/user-attachments/assets/66a115cd-df3d-47f8-861f-4977a772f5b9" width="600">
 
-Further examples are in the "example output" folders.
+Further examples are in the "example_output" zip file.
 
 
 
